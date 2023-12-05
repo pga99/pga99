@@ -14,9 +14,6 @@ Here I also host the [Science Comics](https://github.com/pga99/comics) I've crea
 
 And you find the slides for my [Data Visualization and Storytelling course](https://github.com/pga99/DataVisCourse) for Scientists.
 
---- 
- 🤱 I’m currently in parental leave [Elternzeit].
-
 
 <!--
 **pga99/pga99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
